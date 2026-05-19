@@ -1,0 +1,51 @@
+{
+  "name": "kursd_base",
+  "chance": 35,
+  "values": [
+    "minecraft:wooden_sword",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_shovel",
+
+    "minecraft:leather_helmet",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_leggings",
+    "minecraft:leather_boots",
+
+    "minecraft:copper_sword",
+    "minecraft:copper_pickaxe",
+    "minecraft:copper_axe",
+    "minecraft:copper_shovel",
+    "minecraft:copper_helmet",
+    "minecraft:copper_chestplate",
+    "minecraft:copper_leggings",
+    "minecraft:copper_boots",
+
+    "minecraft:iron_sword",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_axe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+
+    "minecraft:diamond_sword",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_axe",
+    "minecraft:diamond_shovel",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_chestplate",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_boots",
+
+    "minecraft:netherite_sword",
+    "minecraft:netherite_pickaxe",
+    "minecraft:netherite_axe",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_helmet",
+    "minecraft:netherite_chestplate",
+    "minecraft:netherite_leggings",
+    "minecraft:netherite_boots"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "kursd",
+	"version": "${version}",
+	"name": "kʊɹs'd",
+	"description": "loot chests spawn procedurally generated bekʊɹs'd items. Cursed in their own wɛɪj.",
+	"authors": [
+		"pero-SK"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/kursd/kursd_icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.penguin.kursd.Ksd"
+		],
+		"client": [
+			"com.penguin.kursd.client.KsdClient"
+		],
+		"fabric-datagen": [
+			"com.penguin.kursd.client.KsdDataGenerator"
+		]
+	},
+	"mixins": [
+		"kursd.mixins.json",
+		{
+			"config": "kursd.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

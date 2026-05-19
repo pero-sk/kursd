@@ -1,0 +1,20 @@
+{
+  "kursd.trait.anemic": "Anæmic",
+  "kursd.trait.bloodfed": "Blood-fed",
+  "kursd.trait.cinder_laced": "Cinder-lac'd",
+  "kursd.trait.cold_ocean_dweller": "Creature of the Ocean's Depths (C.O.D.)",
+  "kursd.trait.dust_minded": "Dust-minded",
+  "kursd.trait.endermitotic": "Endermitotic",
+  "kursd.trait.glass_boned": "Glass-boned",
+  "kursd.trait.gravid": "Gravid",
+  "kursd.trait.hemorrhagic": "Hemorrhagic",
+  "kursd.trait.hollow_grace": "Hollow grace",
+  "kursd.trait.occluded": "Occluded",
+  "kursd.trait.overstimulated": "Overstimulated",
+  "kursd.trait.parasitic": "Parasitic",
+  "kursd.trait.ravager": "Ravager",
+  "kursd.trait.symbiotic": "Symbiotic",
+  "kursd.trait.tidal_flesh": "Tidal flesh",
+  "kursd.trait.whispering": "Whispering",
+  "kursd.trait.withered_miasma": "Toxic miasma"
+}
